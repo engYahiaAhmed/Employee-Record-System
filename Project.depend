@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1660092441 source:h:\last_year\second term\operating system\sec2\project\link.c
+	"Link.h"
+
+1660092441 source:h:\last_year\second term\operating system\sec2\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"std_types_MT.h"
+	"Link.h"
+
+1658373692 h:\last_year\second term\operating system\sec2\project\std_types_mt.h
+
+1660092441 h:\last_year\second term\operating system\sec2\project\link.h
+	<stdio.h>
+	<stdlib.h>
+	"std_types_MT.h"
+
